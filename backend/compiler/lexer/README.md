@@ -56,8 +56,7 @@ lexer/
 ---
 
 ## 🔄 State Diagram (Simplified)
-![App Screenshot](<img width="7861" height="2759" alt="Source_Code_Tokenization" src="https://github.com/user-attachments/assets/2e40d23f-c27b-4bf9-89c2-1af278551c1d" />
-)
+![State Diagram](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEsJYqnbyI6HlMLrx9GNVhETYrgXIh4J8y0PEwGv_CgSlITkQigpTkvaXjGl9Mzt0beNmQ08e9m0mQCBpm1BUgSbsR0l6u8Pu73ZzRFOHMw42m7sEq5B-_2PtpFYYRmCjrpLI1099FQE/s1600/Untitled.png)
 
 Final states return tokens
 
@@ -127,9 +126,7 @@ Token(symbol, })
 
 ## 🧩 Lexer Architecture Diagram
 
-![App Screenshot](<img width="7861" height="2759" alt="Source_Code_Tokenization" src="https://github.com/user-attachments/assets/c38e55a8-a3e6-416d-bc83-ba22826b40c9" />
-)
-
+![Lexer Architecture](images/Source_Code_Tokenization.png)
 
 
 
